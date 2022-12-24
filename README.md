@@ -1,3 +1,3 @@
-# js_games
-Vanilla JS games
-### TicTacToe game: https://kh-js-tictactoe-game.netlify.app/
+# Easy JavaScript Games
+## Deployed on netlify with CI/CD
+1. TicTacToe: https://kh-js-tictactoe-game.netlify.app/
